@@ -1,0 +1,2 @@
+mymobibot/mymobibot_control:mymobibot/mymobibot_description:mymobibot/mymobibot_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/johnerzz/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/johnerzz/catkin_ws/install -G Unix Makefiles
